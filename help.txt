@@ -1,0 +1,34 @@
+__________________________________________________________________________________________________________________________________________________________________
+
+REQUEST:
+	Click on the REQUEST button. A request form is displayed.
+	Select the required category - Emergency or Routine.
+	Enter the hospital ID and name in their respective entry boxes.
+	Select a blood group from the drop down list.
+	Submit the required number of bags.
+	Enter the required date in YYYY-MM-DD format.
+	Click SUBMIT. A pop-up window opens indicating that your request has been registered in the database.
+
+MANAGEMENT:
+	Click the MANAGEMENT BUTTON. A login screen opens.
+	Enter the correct username and password and click LOGIN. 
+	An error window appears if the entered username or password is incorrect.
+	When the correct username and password are entered, a pop-up window opens. Click the CONTINUE button.
+	The MANAGEMENT window opens, with requests displayed on the left, and donations on the right.
+	The first column displays the blood group, and the second one displays the number of bags requested or available.
+
+	Select a blood group from the Requests column. 
+	A pop-up window opens with the oldest submitted ID and name of the required donor. 
+	It displays "BLOOD UNAVAILABLE" if there is no matching donor.
+	After donating blood from this donor, select the same blood group from the Donors column.
+	This deletes the record of that donor from the DONORS table and decrements one blood bag from the request.
+
+DONATE:
+	Click on the DONATE button. A donation form is displayed.
+	Enter the donor ID and name in their respective entry boxes.
+	Select a blood group from the drop down list.
+	Select the donor's age from 
+	Enter the date of donation in YYYY-MM-DD format.
+	Click SUBMIT. A pop-up window opens indicating that your donation has been registered in the database.
+
+

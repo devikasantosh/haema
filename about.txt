@@ -1,0 +1,11 @@
+______________________________________________________________________________________________________________________________________________________________________________
+
+Haema is a software designed for management of blood in blood banks through a user-friendly interface.
+Haema is a simple, yet effective tool for optimal utilisation of blood bank services in both, hospitals and stand-alone blood banks.
+It is a freeware, made using Python, Tkinter, and MySQL.
+It is compatible with all operating systems and works best in 1440x900 screen resolution.
+
+
+Haema 2019 version
+Copyright HaemaSoft
+All Rights Reserved.
